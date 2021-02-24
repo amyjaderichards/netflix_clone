@@ -1,8 +1,11 @@
 import React from 'react';
+import Jumbotron from './components/jumbotron';
  
 export default function App() {
   return (
-    <p>Hello Tom</p>
+    <Jumbotron.Container>
+
+    </Jumbotron.Container>
   );
 }
 
