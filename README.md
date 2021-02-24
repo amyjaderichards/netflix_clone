@@ -5,9 +5,8 @@ My code for the [Build a Netflix Clone in React](https://www.youtube.com/watch?v
 
 ## Languages/Framework Used
 - JavaScript
-- React
-- Tailwind CSS
-- Firebase
+- React (custom hooks, context, portals, compound components)
+- Firebase (firestore/auth)
 
 ## Setup
 `npm start`
